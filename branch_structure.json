@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/workflow-fix",
+    "fix/unread-notification-badge-tab-bar",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/workflow-fix": "main",
+    "fix/unread-notification-badge-tab-bar": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/workflow-fix",
+    "fix/unread-notification-badge-tab-bar",
+    "origin"
+  ]
+}
